@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D4A5-EC81
+
+ Directory of C:\Users\gajdos.csanad\Desktop\ResponsivePics\images\Laptop PNG
+
+[.]                 [..]                Laptop PNG 01.png   Laptop PNG 02.png
+Laptop PNG 03.png   Laptop PNG 04.png   Laptop PNG 05.png   Laptop PNG 06.png
+Laptop PNG 07.png   Laptop PNG 08.png   Laptop PNG 09.png   Laptop PNG 10.png
+Laptop PNG 11.png   lista.txt           
+              12 File(s)      7ÿ631ÿ437 bytes
+               2 Dir(s)  206ÿ387ÿ560ÿ448 bytes free
